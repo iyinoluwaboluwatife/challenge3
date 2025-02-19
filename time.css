@@ -833,13 +833,13 @@ body{
 .social-img{
     background-color: hsl(264, 64%, 52%);
     border-radius: 12px;
-    padding: 0px 20px 20px 10px;
+    padding: 5px 20px 20px 10px;
     display: flex;
     justify-content: end;
 }
 .social-img img{
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     opacity: 0.6;
     transform: rotate(30deg);
     padding: 5px 0 5px 0;
